@@ -72,8 +72,3 @@ Oasis Infobyte Java Development Intern
 Contact : 
 - Email: aish.divya.sp_bcs27@mepcoeng.ac.in
 - LinkedIn: https://www.linkedin.com/in/divya-s-70aa10374/
-
-
-#OasisInfobyte #JavaDevelopment #InternshipProject #Java #Swing #Programming #SoftwareDevelopment #Learning #TechIntern
-
-@Oasis Infobyte
